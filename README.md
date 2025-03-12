@@ -1,1 +1,2 @@
-Tutorial for making a clone of the classic Pong game, using Unity. Check out the tutorial on Awesome Inc U: [Unity Pong tutorial](http://www.awesomeincu.com/tutorials/unity-pong/)
+A simple 2D action game in Unity (author unknown) was used as a platform to showcase my sound design work. 
+This marks my first step into sound design for game development, allowing me to practice and refine my skills.
