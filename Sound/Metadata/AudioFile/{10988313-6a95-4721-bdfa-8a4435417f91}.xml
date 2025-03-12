@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{10988313-6a95-4721-bdfa-8a4435417f91}">
+		<property name="assetPath">
+			<value>reverse.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d4eb75c9-9407-486a-b95c-717185396b04}</destination>
+		</relationship>
+	</object>
+</objects>
